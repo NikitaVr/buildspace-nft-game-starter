@@ -1,4 +1,4 @@
-const CONTRACT_ADDRESS = process.env.CONTRACT_ADDRESS;
+const CONTRACT_ADDRESS = process.env.REACT_APP_CONTRACT_ADDRESS;
 
 /*
  * Add this method and make sure to export it on the bottom!
