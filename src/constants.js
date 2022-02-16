@@ -1,4 +1,4 @@
-const CONTRACT_ADDRESS = "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0";
+const CONTRACT_ADDRESS = process.env.CONTRACT_ADDRESS;
 
 /*
  * Add this method and make sure to export it on the bottom!
